@@ -29,7 +29,7 @@ town = {
 # Type your solution directly below this line:
 
   town[:residents] = ["Maurice", "Gaston"]
-  town[:guests] = ["Belle"]
+  town[:guests] += ["Belle"]
 
 
 # Question 3
